@@ -2,7 +2,7 @@
 
 - 🎓 Computer Science - UFF
 - 🌱 I’m currently learning Python
-- 💡 enthusiastic of the best web & mobile development technologies
+- 💡 Enthusiastic of the best web & mobile development technologies
 
 <div>
   <a href="https://github.com/oftheus">

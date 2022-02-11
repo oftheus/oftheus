@@ -1,16 +1,19 @@
 ### Hey, I'm Matheus Gonçalves! 👋
 
 - 🎓 Computer Science - UFF
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and C
 - 💡 Enthusiastic of the best web & mobile development technologies
 
 <div>
   <a href="https://github.com/oftheus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oftheus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oftheus&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oftheus&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oftheus&layout=compact&langs_count=7&theme=github_dark"/>
 </div> 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="oftheus" src="https://cdn.discordapp.com/attachments/842758615143677982/884260054080053268/36428587acbccc858ab54eddc8adaea2.gif">
+  
+<div style="display: inline_block"><br>   
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+</div>  
   
   ##
   
@@ -21,3 +24,5 @@
  <a href="https://steamcommunity.com/id/perigoxxo/" target="_blank" ><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
     
   </div> 
+  
+  

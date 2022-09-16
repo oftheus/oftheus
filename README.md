@@ -1,7 +1,7 @@
 ### Hey, I'm Matheus Gonçalves! 👋
 
 - 🎓 Computer Science - UFF
-- 🌱 I’m currently learning Python and C
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💡 Enthusiastic of the best web & mobile development technologies
 
 <div>

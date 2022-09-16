@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/oftheus">
-  <img height="150em" width="40%" src="https://github-readme-stats.vercel.app/api?username=oftheus&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oftheus&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oftheus&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oftheus&layout=compact&langs_count=7&theme=github_dark"/>
 </div> 
   
 <div style="display: inline_block"><br>   

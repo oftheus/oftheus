@@ -1,28 +1,41 @@
-### Hey, I'm Matheus Gonçalves! 👋
+## Hi there, I'm Matheus Gonçalves! 👋
 
-- 🎓 Computer Science - UFF
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💡 Enthusiastic of the best web & mobile development technologies
+### 🎓 About me:
 
-### 📊 Stats
-<div>
-  <a href="https://github.com/oftheus">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oftheus&show_icons=true&theme=github_dark&include_all_commits=false&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oftheus&layout=compact&langs_count=7&theme=github_dark"/>
-</div> 
+🌍 Based in Brazil.<br/>
+📚 Currently studying Computer Science at Universidade Federal Fluminense (UFF).<br/>
+💻 Web Developer with a passion for crafting elegant solutions.<br/>
 
----
+### 👩‍💻 Professional interests:
+
+🖥️ Deeply fascinated by all things in computer science - currently studying more about algorithms and data structures.<br/>
+📱 Developing intuitive and impactful web applications.<br/>
+🛠️ Continuously exploring new technologies and methodologies in software engineering.<br/>
+
+### 🌱 What I'm up to:
+
+📖 Constantly learning and improving my skills in software engineering.<br/>
+🔄 Contributing to open-source projects that catch my interest.<br/>
+🤝 Looking to collaborate on innovative web projects.<br/>
+💬 Feel free to reach out for collaborations or just a tech chat!<br/>
+
+### 📈 My goals:
+
+🌟 To develop software that makes a difference.<br/>
+🌐 To connect and collaborate with fellow developers and tech enthusiasts.<br/>
+
+<hr>
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
-<br />
+<br/>
 
 #

@@ -1,40 +1,42 @@
-## Hi there, I'm Matheus Gonçalves! 👋
+<h1 align="center">Hi , I'm Matheus Gonçalves! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Tech+Enthusiast;Turning+problems+into+solutions;Always+learning+new+things&center=true&width=500&height=50&font=Georgia" />
+</a>
+</p>
 
-### 🎓 About me:
+<hr/>
 
-🌍 Based in Brazil.<br/>
-📚 Currently studying Computer Science at Universidade Federal Fluminense (UFF).<br/>
-💻 Web Developer with a passion for crafting elegant solutions.<br/>
+<h4 align="center">I'm a Computer Science student at Universidade Federal Fluminense (UFF) and a web developer passionate about crafting elegant and efficient solutions. Deeply interested in computer science topics — currently diving deeper into algorithms, data structures, and building intuitive web applications.</h4>
+<br>
 
-### 👩‍💻 Professional interests:
-
-🖥️ Deeply fascinated by all things in computer science - currently studying more about algorithms and data structures.<br/>
-📱 Developing intuitive and impactful web applications.<br/>
-🛠️ Continuously exploring new technologies and methodologies in software engineering.<br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=oftheus&label=Matheus's%20Profile%20Views%20&color=dc143c&style=plastic" alt="oftheus" /> </p>
 
 ### 🌱 What I'm up to:
 
-📖 Constantly learning and improving my skills in software engineering.<br/>
-🔄 Contributing to open-source projects that catch my interest.<br/>
-🤝 Looking to collaborate on innovative web projects.<br/>
-💬 Feel free to reach out for collaborations or just a tech chat!<br/>
+- Constantly learning and improving my skills in software engineering.<br/>
+- Contributing to open-source projects that catch my interest.<br/>
+- Looking to collaborate on innovative web projects.<br/>
+- Feel free to reach out for collaborations or just a tech chat!<br/>
 
 ### 📈 My goals:
 
-🌟 To develop software that makes a difference.<br/>
-🌐 To connect and collaborate with fellow developers and tech enthusiasts.<br/>
+- To develop software that makes a difference.<br/>
+- To connect and collaborate with fellow developers and tech enthusiasts.<br/>
 
 <hr>
 
-### 🧰 Languages and Tools
+### 👨‍💻 Programming Languages
+[![Programming Languages](https://skillicons.dev/icons?i=ts,js,cs)](https://skillicons.dev)
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+### 🖥️ Backend Development
+[![Backend Development](https://skillicons.dev/icons?i=dotnet,mysql,postgres)](https://skillicons.dev)
+
+### 🌐 Frontend Development
+[![Frontend Development](https://skillicons.dev/icons?i=angular,bootstrap,html,css)](https://skillicons.dev)
+
+### 🛠️ Software & Tools
+[![Software & Tools](https://skillicons.dev/icons?i=cypress,postman,docker,git,vscode,visualstudio,azure)](https://skillicons.dev)
 
 <br/>
 

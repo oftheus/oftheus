@@ -12,28 +12,28 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=oftheus&label=Matheus's%20Profile%20Views%20&color=dc143c&style=plastic" alt="oftheus" /> </p>
 
-### 🌱 What I'm up to:
+## 🌱 What I'm up to:
 
 - Constantly learning and improving my skills in software engineering.<br/>
 - Contributing to open-source projects that catch my interest.<br/>
 - Looking to collaborate on innovative web projects.<br/>
 - Feel free to reach out for collaborations or just a tech chat!<br/>
 
-### 📈 My goals:
+## 📈 My goals:
 
 - To develop software that makes a difference.<br/>
 - To connect and collaborate with fellow developers and tech enthusiasts.<br/>
 
 <hr>
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages:
 [![Programming Languages](https://skillicons.dev/icons?i=ts,js,cs)](https://skillicons.dev)
 
-### 🖥️ Backend Development
+### 🖥️ Backend Development:
 [![Backend Development](https://skillicons.dev/icons?i=dotnet,mysql,postgres)](https://skillicons.dev)
 
-### 🌐 Frontend Development
+### 🌐 Frontend Development:
 [![Frontend Development](https://skillicons.dev/icons?i=angular,bootstrap,html,css)](https://skillicons.dev)
 
-### 🛠️ Software & Tools
+### 🛠️ Software & Tools:
 [![Software & Tools](https://skillicons.dev/icons?i=cypress,postman,docker,git,vscode,visualstudio,azure)](https://skillicons.dev)

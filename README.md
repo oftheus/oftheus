@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Matheus Gonçalves! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Tech+Enthusiast;Turning+problems+into+solutions;Always+learning+new+things&center=true&width=500&height=50&font=Courier" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=QA+Engineer;Software+Development+Engineer+in+Test;Front-End+Developer;Always+learning+new+things&center=true&width=500&height=50&font=Courier" />
 </a>
 </p>
 
@@ -26,14 +26,8 @@
 
 <hr>
 
-### 👨‍💻 Programming Languages:
-<p><img src="https://skillicons.dev/icons?i=ts,js,cs" height="30"/></p>
-
-### 🖥️ Backend Development:
-<p><img src="https://skillicons.dev/icons?i=dotnet,mysql,postgres" height="30"/></p>
-
 ### 🌐 Frontend Development:
-<p><img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css" height="30"/></p>
+<p><img src="https://skillicons.dev/icons?i=react,angular,ts,js,bootstrap,tailwind,html,css" height="30"/></p>
 
 ### 🛠️ Software & Tools:
-<p><img src="https://skillicons.dev/icons?i=cypress,postman,docker,figma,git,vscode,visualstudio,azure" height="30"/></p>
+<p><img src="https://skillicons.dev/icons?i=cypress,postman,docker,figma,git,jenkins,vscode,azure" height="30"/></p>

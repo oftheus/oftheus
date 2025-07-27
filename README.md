@@ -37,7 +37,3 @@
 
 ### 🛠️ Software & Tools
 [![Software & Tools](https://skillicons.dev/icons?i=cypress,postman,docker,git,vscode,visualstudio,azure)](https://skillicons.dev)
-
-<br/>
-
-#

@@ -27,13 +27,13 @@
 <hr>
 
 ### 👨‍💻 Programming Languages:
-<p><img src="https://skillicons.dev/icons?i=ts,js,cs" height="35"/></p>
+<p><img src="https://skillicons.dev/icons?i=ts,js,cs" height="30"/></p>
 
 ### 🖥️ Backend Development:
-<p><img src="https://skillicons.dev/icons?i=dotnet,mysql,postgres" height="35"/></p>
+<p><img src="https://skillicons.dev/icons?i=dotnet,mysql,postgres" height="30"/></p>
 
 ### 🌐 Frontend Development:
-<p><img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css" height="35"/></p>
+<p><img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css" height="30"/></p>
 
 ### 🛠️ Software & Tools:
-<p><img src="https://skillicons.dev/icons?i=cypress,postman,docker,figma,git,vscode,visualstudio,azure" height="35"/></p>
+<p><img src="https://skillicons.dev/icons?i=cypress,postman,docker,figma,git,vscode,visualstudio,azure" height="30"/></p>
